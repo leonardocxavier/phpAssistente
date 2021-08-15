@@ -12,7 +12,7 @@
         <WindowIndex Value="-1"/>
         <TopLine Value="-1"/>
         <CursorPos X="-1" Y="-1"/>
-        <UsageCount Value="31"/>
+        <UsageCount Value="32"/>
       </Unit0>
       <Unit1>
         <Filename Value="editor.pas"/>
@@ -20,9 +20,9 @@
         <ComponentName Value="Form1"/>
         <ResourceBaseClass Value="Form"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="325"/>
-        <CursorPos X="36" Y="321"/>
-        <UsageCount Value="31"/>
+        <TopLine Value="206"/>
+        <CursorPos X="55" Y="213"/>
+        <UsageCount Value="32"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit1>
@@ -31,130 +31,130 @@
         <EditorIndex Value="1"/>
         <TopLine Value="195"/>
         <CursorPos X="25" Y="203"/>
-        <UsageCount Value="13"/>
+        <UsageCount Value="14"/>
         <Loaded Value="True"/>
       </Unit2>
     </Units>
     <JumpHistory Count="30" HistoryIndex="29">
       <Position1>
         <Filename Value="editor.pas"/>
-        <Caret Line="231" Column="3" TopLine="228"/>
+        <Caret Line="170" Column="80" TopLine="168"/>
       </Position1>
       <Position2>
         <Filename Value="editor.pas"/>
-        <Caret Line="232" Column="44" TopLine="228"/>
+        <Caret Line="171" Column="45" TopLine="163"/>
       </Position2>
       <Position3>
         <Filename Value="editor.pas"/>
-        <Caret Line="233" Column="44" TopLine="229"/>
+        <Caret Line="177" Column="41" TopLine="168"/>
       </Position3>
       <Position4>
         <Filename Value="editor.pas"/>
-        <Caret Line="232" Column="3" TopLine="229"/>
+        <Caret Line="227" Column="35" TopLine="215"/>
       </Position4>
       <Position5>
         <Filename Value="editor.pas"/>
-        <Caret Line="167" Column="14" TopLine="160"/>
+        <Caret Line="183" Column="68" TopLine="187"/>
       </Position5>
       <Position6>
         <Filename Value="editor.pas"/>
-        <Caret Line="174" Column="48" TopLine="166"/>
+        <Caret Line="188" Column="40" TopLine="180"/>
       </Position6>
       <Position7>
         <Filename Value="editor.pas"/>
-        <Caret Line="176" Column="48" TopLine="168"/>
+        <Caret Line="198" Column="68" TopLine="190"/>
       </Position7>
       <Position8>
         <Filename Value="editor.pas"/>
-        <Caret Line="170" Column="80" TopLine="168"/>
+        <Caret Line="203" Column="67" TopLine="195"/>
       </Position8>
       <Position9>
         <Filename Value="editor.pas"/>
-        <Caret Line="171" Column="45" TopLine="163"/>
+        <Caret Line="245" Column="62" TopLine="238"/>
       </Position9>
       <Position10>
         <Filename Value="editor.pas"/>
-        <Caret Line="177" Column="41" TopLine="168"/>
+        <Caret Line="262" Column="38" TopLine="231"/>
       </Position10>
       <Position11>
         <Filename Value="editor.pas"/>
-        <Caret Line="227" Column="35" TopLine="215"/>
+        <Caret Line="263" Column="38" TopLine="248"/>
       </Position11>
       <Position12>
         <Filename Value="editor.pas"/>
-        <Caret Line="183" Column="68" TopLine="187"/>
+        <Caret Line="262" Column="38" TopLine="247"/>
       </Position12>
       <Position13>
         <Filename Value="editor.pas"/>
-        <Caret Line="188" Column="40" TopLine="180"/>
+        <Caret Line="263" Column="38" TopLine="248"/>
       </Position13>
       <Position14>
         <Filename Value="editor.pas"/>
-        <Caret Line="198" Column="68" TopLine="190"/>
+        <Caret Line="262" Column="38" TopLine="247"/>
       </Position14>
       <Position15>
         <Filename Value="editor.pas"/>
-        <Caret Line="203" Column="67" TopLine="195"/>
+        <Caret Line="263" Column="38" TopLine="248"/>
       </Position15>
       <Position16>
         <Filename Value="editor.pas"/>
-        <Caret Line="245" Column="62" TopLine="238"/>
+        <Caret Line="262" Column="38" TopLine="247"/>
       </Position16>
       <Position17>
         <Filename Value="editor.pas"/>
-        <Caret Line="262" Column="38" TopLine="231"/>
+        <Caret Line="263" Column="38" TopLine="248"/>
       </Position17>
       <Position18>
         <Filename Value="editor.pas"/>
-        <Caret Line="263" Column="38" TopLine="248"/>
+        <Caret Line="262" Column="38" TopLine="247"/>
       </Position18>
       <Position19>
         <Filename Value="editor.pas"/>
-        <Caret Line="262" Column="38" TopLine="247"/>
+        <Caret Line="284" Column="43" TopLine="201"/>
       </Position19>
       <Position20>
         <Filename Value="editor.pas"/>
-        <Caret Line="263" Column="38" TopLine="248"/>
+        <Caret Line="244" Column="31" TopLine="312"/>
       </Position20>
       <Position21>
         <Filename Value="editor.pas"/>
-        <Caret Line="262" Column="38" TopLine="247"/>
+        <Caret Line="320" Column="3" TopLine="304"/>
       </Position21>
       <Position22>
         <Filename Value="editor.pas"/>
-        <Caret Line="263" Column="38" TopLine="248"/>
+        <Caret Line="321" Column="3" TopLine="307"/>
       </Position22>
       <Position23>
         <Filename Value="editor.pas"/>
-        <Caret Line="262" Column="38" TopLine="247"/>
+        <Caret Line="320" Column="3" TopLine="306"/>
       </Position23>
       <Position24>
         <Filename Value="editor.pas"/>
-        <Caret Line="263" Column="38" TopLine="248"/>
+        <Caret Line="321" Column="36" TopLine="325"/>
       </Position24>
       <Position25>
         <Filename Value="editor.pas"/>
-        <Caret Line="262" Column="38" TopLine="247"/>
+        <Caret Line="324" Column="60" TopLine="317"/>
       </Position25>
       <Position26>
         <Filename Value="editor.pas"/>
-        <Caret Line="284" Column="43" TopLine="201"/>
+        <Caret Line="329" Column="102" TopLine="324"/>
       </Position26>
       <Position27>
         <Filename Value="editor.pas"/>
-        <Caret Line="244" Column="31" TopLine="312"/>
+        <Caret Line="231" Column="36" TopLine="290"/>
       </Position27>
       <Position28>
         <Filename Value="editor.pas"/>
-        <Caret Line="320" Column="3" TopLine="304"/>
+        <Caret Line="139" Column="20" TopLine="138"/>
       </Position28>
       <Position29>
         <Filename Value="editor.pas"/>
-        <Caret Line="321" Column="3" TopLine="307"/>
+        <Caret Line="357" Column="48" TopLine="352"/>
       </Position29>
       <Position30>
         <Filename Value="editor.pas"/>
-        <Caret Line="320" Column="3" TopLine="306"/>
+        <Caret Line="220" Column="30" TopLine="203"/>
       </Position30>
     </JumpHistory>
     <RunParams>
@@ -162,4 +162,15 @@
       <Modes Count="0" ActiveMode=""/>
     </RunParams>
   </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="editor.pas"/>
+        <Line Value="213"/>
+      </Item1>
+    </BreakPoints>
+  </Debugging>
 </CONFIG>

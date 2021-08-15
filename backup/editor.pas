@@ -140,6 +140,17 @@ var
   x,a: integer;
   campo,campo_id,nomedomenu,idconteudo:string;
 begin
+  //limpa os edits para criar os novos scripts
+  SynEdit1.Lines.Clear;
+  SynEdit2.Lines.Clear;
+  SynEdit3.Lines.Clear;
+  SynEdit4.Lines.Clear;
+  SynEdit5.Lines.Clear;
+  SynEdit6.Lines.Clear;
+  SynEdit7.Lines.Clear;
+  //termina de limpar os campos
+
+
   //pega o numero de itens que o usuario incluiu no list box
   x := ListBox1.Count;
   //coloca o listbox na posição 0
@@ -210,7 +221,7 @@ begin
   SynEdit2.lines.Add('        $.ajax({  ');
   SynEdit2.lines.Add('            url:"listar'+nomedomenu+'.php",');
   SynEdit2.lines.Add('            data:{');
-  SynEdit2.lines.Add('                achar : var
+  SynEdit2.lines.Add('                achar : var  ');
   SynEdit2.lines.Add('            },');
   SynEdit2.lines.Add('            success:function(data){   ');
   SynEdit2.lines.Add('                $("#listagem_'+nomedomenu+'").html(data);');
@@ -218,7 +229,6 @@ begin
   SynEdit2.lines.Add('        });');
   SynEdit2.lines.Add('    }');
   SynEdit2.lines.Add('}); ');
-
   SynEdit2.Lines.Add('/* ===========================================*/');
   SynEdit2.Lines.Add('');
 
@@ -245,9 +255,9 @@ begin
            campo_id:=StringReplace(campo,' ','_',[rfReplaceAll, rfIgnoreCase]);
            campo_id:= tiraacento(campo_id);
            if(a=x-1) then begin
-                 SynEdit2.Lines.Add('        '+campo_id+' : $("#'+campo_id+'").val()');
+                 SynEdit2.Lines.Add('               '+campo_id+' : $("#'+campo_id+'").val()');
               end else begin
-                 SynEdit2.Lines.Add('        '+campo_id+' : $("#'+campo_id+'").val(),');
+                 SynEdit2.Lines.Add('               '+campo_id+' : $("#'+campo_id+'").val(),');
            end;
            ListBox1.ItemIndex:=a;
            a:=a+1;
